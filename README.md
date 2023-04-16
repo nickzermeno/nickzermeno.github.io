@@ -1,1 +1,1 @@
-Here is my respository created for the purpose of a GitHub Pages website. Please visit the website at https://nickzermeno.github.io/# to see the website in action.
+Here is my respository created for the purpose of a GitHub Pages website. Please visit the website at https://nickzermeno.github.io/# to see it in action.
